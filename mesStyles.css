@@ -1,0 +1,19 @@
+.h3 
+{
+text-align: center;
+padding-top: 75px;
+font-weight: bold;
+margin: -20px;
+}
+body {
+font-family: sans-serif;    
+background-image: url("fin.jpg");
+background-repeat: no-repeat;
+overflow: hidden;
+background-size: cover;
+
+}
+.btn btn-lg btn-primary btn-block button:hover {
+box-shadow: 2px 2px 5px #555;
+background-color: #7799d4;
+}
